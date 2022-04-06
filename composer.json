@@ -1,0 +1,16 @@
+{
+    "name": "sk/composer",
+    "description": "projet composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SULEYMAN KUTUK",
+            "email": "kutuk.suleymann@gmail.com"
+        }
+    ],
+    "require": {}
+}
